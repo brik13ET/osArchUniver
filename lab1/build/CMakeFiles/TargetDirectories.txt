@@ -1,3 +1,0 @@
-/media/briket/data/Git/C/osArchUniver/lab1/build/CMakeFiles/osArchUniver.dir
-/media/briket/data/Git/C/osArchUniver/lab1/build/CMakeFiles/edit_cache.dir
-/media/briket/data/Git/C/osArchUniver/lab1/build/CMakeFiles/rebuild_cache.dir
