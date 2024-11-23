@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/media/briket/data/Git/C/osArchUniver/lab1/build",
+  "command": "/usr/bin/gcc -g -std=gnu11 -o CMakeFiles/osArchUniver.dir/main.c.o -c /media/briket/data/Git/C/osArchUniver/lab1/main.c",
+  "file": "/media/briket/data/Git/C/osArchUniver/lab1/main.c",
+  "output": "CMakeFiles/osArchUniver.dir/main.c.o"
+}
+]
