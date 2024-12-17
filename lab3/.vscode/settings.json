@@ -1,0 +1,12 @@
+{
+    "cmake.debugConfig": {
+        "args": [
+			"https://..com",
+			// "https.com",
+			"https://com.",
+			// "https://.com",
+			"https://vps1.userapi.vk.com",
+			"ws://localhost",
+        ]
+    }
+}
